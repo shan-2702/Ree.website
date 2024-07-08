@@ -23,12 +23,7 @@ CSS
 Getting Started
 
 To view and edit this project on your local machine:
-
-Clone the repository:
-
-bash
-Copy code
-git clone https://github.com/your-username/reestar-website.git
+Please use this link to visit my website : https://shan-2702.github.io/Ree.website/
 
 Navigate to the project directory:
 
@@ -39,3 +34,5 @@ Open index.html in your browser to view the Home page.
 
 Contributing
 Contributions are welcome! If you have suggestions for improvements or find any bugs, please open an issue or submit a pull request.
+
+Thank you for visiting my Reestar website!!
